@@ -1,4 +1,4 @@
-# BME3053c Final Project
+# BME3053c Final Project: ECG Machine Learning
 ## Team Name 
 Team ECG Coders
 ## Team Members 
